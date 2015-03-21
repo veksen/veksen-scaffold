@@ -41,7 +41,7 @@ gulp.task('assets', function() {
 			style: 'compressed',
 			includePaths: [
 				paths.sass,
-				paths.bower + '/bootstrap-sass-official/assets/stylesheets',
+				paths.bower + '/foundation/scss',
 				paths.bower + '/fontawesome/scss',
 			]
 		}))
