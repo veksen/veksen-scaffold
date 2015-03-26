@@ -12,11 +12,15 @@
 1. Pull branch
  * *git checkout [branch]*
  * *git pull*
-2. Run gulp
+2. Install bower dependencies
+ * *bower install*
+3. Install npm dependencies
+ * *sudo npm install*
+4. Run gulp
  * *gulp*
-3. If necessary, update bower dependencies
+5. If necessary, update bower dependencies
  * *bower update*
-4. If necessary, edit *gulpfile.js*
+6. If necessary, edit *gulpfile.js*
 
 ## Reminder
 
